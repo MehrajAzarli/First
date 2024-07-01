@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class firsttry {
+public class firsttry {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
+
